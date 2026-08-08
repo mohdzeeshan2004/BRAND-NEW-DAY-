@@ -17,7 +17,7 @@ from supabase import create_client, Client
 # PAGE CONFIG
 # ----------------------------------------------------------------------
 st.set_page_config(
-    page_title="My Daily Tasks",
+    page_title="Zeeshan's Daily Tasks",
     page_icon="📝",
     layout="wide",
     initial_sidebar_state="expanded",
